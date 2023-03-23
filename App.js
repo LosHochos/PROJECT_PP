@@ -26,7 +26,7 @@ export default function App() {
         </View>
       
         <View style={styles.Down_Style}>
-        <Text style={styles.Titles_Style}>PROFESIONAL DOCUMENT</Text>
+        <Text style={styles.Titles_Style}>PROFESIONAL DOCUMENTS</Text>
           <View style={[styles.Elements_Style, styles.elevation]}>
           <TouchableOpacity onPress={onPressProf}>
               <Image style={styles.downloadIcon_Style} source={require('./assets/icons/download_icon.png')}/>
