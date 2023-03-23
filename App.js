@@ -17,7 +17,7 @@ export default function App() {
           <View style={styles.Id_Style}>
             <Text>ID</Text>
           </View>
-          <Text style={styles.Titles_Style}>PARASCHOLAR DOCUMENT</Text>
+          <Text style={styles.Titles_Style}>PARASCHOLAR DOCUMENTSSSSS</Text>
           <View style={styles.Elements_Style}>
             <TouchableOpacity onPress={onPressPara}>
               <Image style={styles.downloadIcon_Style} source={require('./assets/icons/download_icon.png')}/>
